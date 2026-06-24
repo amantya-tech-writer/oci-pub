@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-oci:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-24T13:25:01.043582448Z"
+    description: A Helm chart for Kubernetes
+    digest: 9521575d1b2fec6fe6e8f241dccd98d6805082102c539f7c09572d5a8b4ce8a2
+    name: hello-oci
+    type: application
+    urls:
+    - hello-oci-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-24T13:25:01.033866088Z"
